@@ -1,4 +1,4 @@
-## 👀 Acerca de mí
+##  Acerca de mí
 ```javascript
 const aboutMe = {
   💼description: "I'm a full stack web developer",
