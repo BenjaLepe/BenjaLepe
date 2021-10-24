@@ -3,7 +3,7 @@
 const aboutMe = {
   💼description: "I'm a full stack web developer",
   🎓studies: "Engeneer Computer Science student (graduating in December 2022)",
-  🔨languages: ["Javascript", "Typescript", "Python", "C", "PHP", "Ruby", "HTML", "CSS"],
+  🔨languages: ["Javascript", "Python", "C", "PHP", "Ruby", "HTML", "CSS"],
   🔧tools: {
     💻frontendTools: ["React", "Vue", "Sass", "Tailwind", "Bootstrap", "Redux", "D3"],
     ⚡backendTools: ["Flask", "fastAPI", "koa.js"],
