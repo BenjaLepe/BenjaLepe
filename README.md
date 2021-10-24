@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**BenjaLepe/BenjaLepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 Acerca de mí
+```javascript
+const aboutMe = {
+  💼description: "I'm a full stack web developer",
+  🎓studies: "Engeneer Computer Science student (graduating in December 2022)",
+  🔨languages: ["Javascript", "Typescript", "Python", "C", "PHP", "Ruby", "HTML", "CSS"],
+  🔧tools: {
+    💻frontendTools: ["React", "Vue", "Sass", "Tailwind", "Bootstrap", "Redux"],
+    ⚡backendTools: ["Flask", "fastAPI", "koa.js"],
+    📱mobileTools: ["React Native"],
+  },
+  🚀devops: ["Docker", "Git", "Github Actions"],
+  🔒databases: ["MongoDB", "PostgreSQL", "MySQL"],
+}
+```
